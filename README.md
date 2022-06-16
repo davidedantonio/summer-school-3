@@ -1,2 +1,5 @@
-# summer-school-3
-Lezione 3 - React
+# Lezione 3 - React
+
+- [ ] Introduzione
+- [ ] Counter App
+- [ ] Todo App
